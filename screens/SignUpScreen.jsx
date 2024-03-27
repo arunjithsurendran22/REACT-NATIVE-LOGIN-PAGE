@@ -12,7 +12,7 @@ const SignUpScreen = () => {
   const navigation = useNavigation();
 
   return (
-    <View className="w-full h-full bg-white ">
+    <View className="w-full h-full">
       <Image
         source={require("../assets/images/background.png")}
         className="w-full h-full absolute"
